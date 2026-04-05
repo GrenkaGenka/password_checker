@@ -10,7 +10,7 @@
         Убедиться что сервер запустился, по умолчанию стоит http://localhost:8080
 
     4. Запустить тесты командой `pytest test_password.py -v` или
-        `pytest --html=report.html --self-contained-html` для генерации отчета в allure
+        `pytest --html=report.html --self-contained-html` для генерации отчета в html
 
 """
 
